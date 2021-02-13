@@ -91,12 +91,36 @@ a.nav_logo:hover {
 }
 
 .header {
+
 }
 .header__row {
-    display: flex;
+    /* position: relative; */
+    /* display: flex; */
     justify-content: flex-end;
+}
+.header__content {
+    /* position: absolute; */
+    background-color: rgba(54, 52, 54, 0.233);
+    left: 0;
+    top: 50%;
+    height: 300px;
+    width: 670;
+    transform: translateY(-50%);
+  
+}
+.header__photo {
 }
 .header__text {
 }
-.header__photo {
+.header__title {
+    margin: 0;
+    font-family: 'Playfair Display', serif; 
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 96px;
+    
+}
+.header__btn {
+}
+.button {
 }
