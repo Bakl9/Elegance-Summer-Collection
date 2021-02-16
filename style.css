@@ -13,6 +13,9 @@ body {
     margin: 0 auto;
 }
 
+.none {
+    display: none;
+}
 /*Navigation*/
 /* font-family: 'Noto Sans', sans-serif;
 font-family: 'Playfair Display', serif; */
@@ -148,11 +151,15 @@ a.nav_logo:hover {
 .header__photo {    
 }
 
-.featured { 
+.featured-section {
+    padding-top: 60px;
+    padding-bottom: 70px; 
+
 }
 .conteiner {
 }
 .section-header {
+    margin-bottom: 40px;
 }
 .section-header_-title {
     margin: 0;
