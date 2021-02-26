@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    font-family: 'Noto Sans ', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     
 }
 
@@ -15,4 +15,14 @@ body {
 
 .none {
     display: none;
+}
+
+.section-blog {
+    padding-top: 70px;
+    padding-bottom: 45px;
+}
+
+.section-subscribe{
+    padding-top: 45px;
+    padding-bottom: 100px;
 }

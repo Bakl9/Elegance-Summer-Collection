@@ -1,18 +1,24 @@
-@import "./block/base.css";
-@import "./block/nav.css";
-@import "./block/header.css";
-@import "./block/feature.css";
-@import "./block/button.css";
-@import "./block/section-header.css";
-@import "./block/product.css";
- 
+@import "./css/block/suscripe-form.css";
+@import "./css/block/section-header.css";
+@import "./css/block/base.css";
+@import "./css/block/header.css";
+@import "./css/block/feature.css";
+@import "./css/block/button.css";
+@import "./css/block/product.css";
+@import "./css/block/nav.css";
+@import "./css/block/info-section.css";
+@import "./css/block/post.css";
+@import "./css/block/footer.css";
 
+@import "./css/block/section-header.css";
 
 /* font-family: 'Noto Sans', sans-serif;
 font-family: 'Playfair Display', serif; */
 
 
 /*.header { */
+
+
 
 
 
